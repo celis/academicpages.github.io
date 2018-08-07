@@ -11,5 +11,5 @@ redirect_from:
 
 
 
-<a href="https://github.com/celis/celis.github.io/blob/master/files/cv.pdf" download>Download the pdf</a>
+<a href="https://github.com/celis/celis.github.io/blob/master/files/cv.pdf" download>Available in pdf</a>
 
