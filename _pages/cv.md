@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-[Download CV here](#474791)(https://celis.github.io/files/cv.pdf)
+[Download CV here](https://celis.github.io/files/cv.pdf)(#474791)
 
 
 <p>Short CV:</p>
