@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://academicpages.github.io/files/cv.pdf)
+
+
+<p>Brief:</p>
+
+
 Education
 ======
 * B.S. in Github, Github University, 2012
@@ -57,6 +63,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
 
 
 <a style="line-height: 1.5;" href="https://github.com/celis/celis.github.io/blob/master/files/cv.pdf"><span style="color: #474791;"><span style="font-size: medium;">Complete CV available in pdf.</span></span></a>
