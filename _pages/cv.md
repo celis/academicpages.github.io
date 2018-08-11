@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<span style=“color:green;”> 
+
 [Download CV here](https://celis.github.io/files/cv.pdf)
-</span>
+
 
 <p>Short CV:</p>
 
