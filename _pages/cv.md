@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://academicpages.github.io/files/cv.pdf)
+[Download CV here](https://github.com/celis/celis.github.io/blob/master/files/cv.pdf)
 
 
 <p>Brief:</p>
