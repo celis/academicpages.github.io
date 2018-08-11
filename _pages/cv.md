@@ -59,7 +59,7 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 
-<a style="line-height: 1.5;" href="https://github.com/celis/celis.github.io/blob/master/files/cv.pdf"><span style="color: #474791;"><span style="font-size: medium;">download>Available in pdf.</span></span></a>
+<a style="line-height: 1.5;" href="https://github.com/celis/celis.github.io/blob/master/files/cv.pdf"><span style="color: #474791;"><span style="font-size: medium;">Complete CV available in pdf.</span></span></a>
 
 
 
