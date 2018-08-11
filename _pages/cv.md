@@ -14,7 +14,7 @@ redirect_from:
 [Download CV here](https://celis.github.io/files/cv.pdf)
 
 
-<p>Brief:</p>
+<p>Brief CV:</p>
 
 
 Education
