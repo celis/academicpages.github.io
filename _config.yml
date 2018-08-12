@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "alej_celis"
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    :  
   steam            :
   tumblr           :
-  twitter          :  '@alej_celis'
+  twitter          :*twitter
   vine             :
   weibo            :
   xing             :
