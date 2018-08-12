@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alejandro Celis"
 title_separator          : "-"
 name                     : &name "Alejandro Celis"
-description              : &description "personal description"
+description              : &description "Theoretical Physicist"
 url                      : https://celis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "alej_celis"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    :  
   steam            :
   tumblr           :
-  twitter          :*twitter
+  twitter          : "alej_celis"
   vine             :
   weibo            :
   xing             :
