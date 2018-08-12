@@ -8,7 +8,7 @@ author_profile: true
 
 [See complete list in INSPIRE](http://inspirehep.net/author/profile/A.Celis.1)
 
-<a style="line-height: 1.5;" href="http://inspirehep.net/author/profile/A.Celis.1"><span style="color: #474791;"><span style="font-size: medium;">See complete list in INSPIRE.</span></span></a>
+
 
 <p>Last publication:</p>
 
