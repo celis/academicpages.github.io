@@ -14,16 +14,16 @@ redirect_from:
 
 
 
-<p>Short CV:</p>
+<p>Short version:</p>
 
 
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
 <a style="line-height: 1.5;" href="https://celis.github.io/files/cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Full CV available in PDF format.</span></span></a>
-<h1 class="western" align="center"><b>R. Stuart Geiger</b></h1>
+<h1 class="western" align="center"><b>Alejandro Celis</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">stuart at  stuartgeiger.com | <a href="http://www.stuartgeiger.com/">http://www.stuartgeiger.com</a> | <a href="http://www.twitter.com/staeiou">@staeiou</a> | <a href="http://is.gd/geiger_cites">Google Scholar</a></span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">stuart at  celis.github.io | <a href="https://celis.github.io">https://celis.github.io</a> | <a href="https://twitter.com/alej_celis">@alej_celis</a> | <a href="https://scholar.google.de/citations?hl=en&user=l0kb_3kAAAAJ">Google Scholar</a></span></p>
 
 <h2 class="western">Education:</h2>
 <ul style="line-height: 1.5; margin: 10px 0;">
