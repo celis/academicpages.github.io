@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I’m Alejandro, a particle physics phenomenologist currently working at the <a style="line-height: 1.5;" href="http://www.theorie.physik.uni-muenchen.de/lsdvali/startseite_baukasten/index.html"><span style="color: #474791;"><span style="font-size: medium;">Ludwig Maximilian University of Munich.</span></span></a>
+Hi! I’m Alejandro, a particle physics phenomenologist currently working at the [Ludwig Maximilian University of Munich](http://www.theorie.physik.uni-muenchen.de/lsdvali/startseite_baukasten/index.html)
+
+
