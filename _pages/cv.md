@@ -31,6 +31,6 @@ redirect_from:
 <ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span style="font-size: medium;"><b>Ph.D., </b></span><strong><span style="font-size: medium;"><b>Theoretical Physics</b></span></strong><span style="font-size: medium;"><b>, Universidad de Valencia, Spain</b></span>
 <ul>
- 	<li><strong><span style="font-size: medium;"><b>Date:</b></span></strong><span style="font-size: medium;"> July 2014</span></li>
+ 	<li><strong><span style="font-size: medium;"><b>Date:</b></span></strong><span style="font-size: medium;"> test July 2014</span></li>
  	<li><span style="font-size: medium;"><b>Doctoral Thesis:</b></span><span style="font-size: medium;"> Phenomenology of two-Higgs-doublet models in the LHC era</span></li>
  	<li><span style="font-size: medium;"><b>Advisor:</b></span><span style="font-size: medium;"> Prof. Antonio Pich</span></li>
