@@ -24,5 +24,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<br/><img src='/images/Kplot.pdf'>
+<br/><img src='/images/Kplot.png'>
 
