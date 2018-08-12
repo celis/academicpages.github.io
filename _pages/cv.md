@@ -34,24 +34,4 @@ redirect_from:
  	<li><strong><span style="font-size: medium;"><b>Date:</b></span></strong><span style="font-size: medium;"> December 2015</span></li>
   <li><b><span style="font-size: medium;">Doctoral Thesis:</b></span><span style="font-size: medium;"> robots.txt: An Ethnographic Investigation of Automated Software Agents in User-Generated Content Platforms</span></li>
  	<li><span style="font-size: medium;"><b>Advisor:</b></span><span style="font-size: medium;"> Prof. Jenna Burrell</span></li>
-</ul>
-</li>
-</ul>
-<ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span style="font-size: medium;"><b>M.A., Communication, Culture, and Technology</b>, <b>Georgetown University</b></span>
 <ul>
- 	<li><strong><span style="font-size: medium;"><b>Date:</b></span></strong><span style="font-size: medium;"> May 2009</span></li>
- 	<li><span style="font-size: medium;"><b>Master’s Thesis</b>: Working within Wikipedia: Infrastructures of Knowing and Knowledge Production</li</span>
- 	<li><span style="font-size: medium;"><b>Advisor: </b>Prof.</span><span style="font-size: medium;"> David Ribes</span></li>
-</ul>
-</li>
-</ul>
-<ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span style="font-size: medium;"><b>B.A., Humanities Honors,</b> <b>University of Texas at Austin</b></span>
-<ul>
- 	<li><strong><span style="font-size: medium;"><b>Date: </b></span></strong><span style="font-size: medium;">May 2007</span></li>
-  <li><span style="font-size: medium;"><b>Senior Thesis</b>: Democracy in Wikipedia</li></span>
- 	<li><span style="font-size: medium;"><b>Advisor:</b></span><span style="font-size: medium;"> Prof. Elizabeth Keating</span></li>
-</ul>
-</li>
-</ul>
