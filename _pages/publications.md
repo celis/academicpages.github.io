@@ -25,5 +25,4 @@ author_profile: true
 {% endfor %}
 
 
-![K-factor as a function of the different Higgs couplings](http://celis.github.io/files/Kplot.pdf)
 
