@@ -55,8 +55,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               :
+twitter:  true
+  username               :  "alej_celis"
 facebook:
   username               :
   app_id                 :
