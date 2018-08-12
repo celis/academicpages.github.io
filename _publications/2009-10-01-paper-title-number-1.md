@@ -12,6 +12,3 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-<figure>
-  <img src="http://academicpages.github.io/files/Kplot.pdf" alt="The Pulpit Rock" width="304" height="228">
-</figure>
