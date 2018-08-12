@@ -24,5 +24,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<br/><img src='/images/Kplot.png'>
+
+<figure>
+  <img src='/images/Kplot.png' style="width:70%">
+  <figcaption>K-factor for the double-Higgs production cross-section via gluon fusion taking into account NLO QCD corrections with full top-quark mass dependence</figcaption>
+</figure>
+
+
 
