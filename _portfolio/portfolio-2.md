@@ -5,5 +5,5 @@ excerpt: "A Mathematica program to solve numerically a large system of coupled d
 collection: portfolio
 ---
 
+  [Github repository](https://github.com/DsixTools/DsixTools)
 
-[Github repository](https://github.com/DsixTools/DsixTools)
