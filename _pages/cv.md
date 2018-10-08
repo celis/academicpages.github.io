@@ -27,7 +27,7 @@ redirect_from:
 
 <h2 class="western">Experience:</h2>
 
-	<li><span style="font-size: medium;"><b>Postdoctoral Researcher, Theoretical Physics, LMU, Munich</b></span></li>
+<li><span style="font-size: medium;"><b><span style="font-size: medium;"><b>Postdoctoral Researcher, Theoretical Physics, LMU, Munich</b></span>
 
 
 <h2 class="western">Education:</h2>
