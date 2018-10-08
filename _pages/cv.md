@@ -26,12 +26,12 @@ redirect_from:
 
 
 <h2 class="western">Experience:</h2>
-
+<ul style="line-height: 1.5; margin: 5px 0;">
 	<li><span style="font-size: medium;"><b>Ph.D., </b>
 
 
 <h2 class="western">Education:</h2>
-
+<ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span style="font-size: medium;"><b>Ph.D., </b></span><strong><span style="font-size: medium;"><b>Theoretical Physics</b></span></strong><span style="font-size: medium;"><b>, Universidad de Valencia, Spain</b></span>
 <ul>
  	<li><strong><span style="font-size: medium;"><b>Date:</b></span></strong><span style="font-size: medium;"> test July 2014</span></li>
