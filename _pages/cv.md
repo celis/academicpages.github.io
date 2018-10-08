@@ -27,7 +27,7 @@ redirect_from:
 
 <h2 class="western">Experience:</h2>
 
-<span style="font-size: medium;"><b>, Universidad de Valencia, Spain</b></span>
+<span style="font-size: medium;"><b>Postdoctoral Researcher, Theoretical Physics, LMU, Munich</b></span>
 
 
 <h2 class="western">Education:</h2>
