@@ -25,17 +25,7 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;">  <a href="https://celis.github.io">https://celis.github.io</a> | <a href="https://twitter.com/alej_celis">@alej_celis</a> | <a href="https://scholar.google.de/citations?hl=en&user=l0kb_3kAAAAJ">Google Scholar</a></span></p>
 
 
-
-
-
-
 <h2 class="western">Experience:</h2>
-
-<ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span style="font-size: medium;"><b>Postdoctoral Researcher,</b></span><strong><span style="font-size: medium;"><b>Theoretical Physics,</b></span></strong><span style="font-size: medium;"><b>,  LMU, Munich</b></span>
-<ul>
- 	<li><strong><span style="font-size: medium;"><b>  Interpretation of data from different experiments within particle physics models, involving model comparison and parameter inference analyses. </b></span></strong>   <span style="font-size: medium;"> test July 2014</span></li>
-
 
 
 
