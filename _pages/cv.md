@@ -26,7 +26,7 @@ redirect_from:
 
 
 <h2 class="western">Experience:</h2>
-<ul style="line-height: 1.5; margin: 5px 0;">
+
 
 
 
