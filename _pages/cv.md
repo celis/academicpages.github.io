@@ -26,6 +26,7 @@ redirect_from:
 
 
 <h2 class="western">Experience:</h2>
+<ul style="line-height: 1.5; margin: 10px 0;">
 	<li><span style="font-size: medium;"><b>Ph.D., </b>
 
 
