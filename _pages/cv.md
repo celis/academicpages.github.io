@@ -27,6 +27,18 @@ redirect_from:
 
 
 
+
+
+<h2 class="western">Experience:</h2>
+
+<ul style="line-height: 1.5; margin: 10px 0;">
+ 	<li><span style="font-size: medium;"><b>Postdoctoral Researcher,</b></span><strong><span style="font-size: medium;"><b>Theoretical Physics,</b></span></strong><span style="font-size: medium;"><b>,  LMU, Munich</b></span>
+<ul>
+ 	<li><strong><span style="font-size: medium;"><b>  Interpretation of data from different experiments within particle physics models, involving model comparison and parameter inference analyses. </b></span></strong>   <span style="font-size: medium;"> test July 2014</span></li>
+
+
+
+
 <h2 class="western">Education:</h2>
 <ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span style="font-size: medium;"><b>Ph.D., </b></span><strong><span style="font-size: medium;"><b>Theoretical Physics</b></span></strong><span style="font-size: medium;"><b>, Universidad de Valencia, Spain</b></span>
