@@ -29,7 +29,6 @@ redirect_from:
 
 <li><span style="font-size: medium;"><b><span style="font-size: medium;"><b>Postdoctoral Researcher, Theoretical Physics, LMU, Munich</b></span>
 
-	<li><strong><span style="font-size: medium;"><b>Date:</b></span></strong><span style="font-size: medium;"> test July 2014</span></li>
 
 <h2 class="western">Education:</h2>
 <ul style="line-height: 1.5; margin: 10px 0;">
