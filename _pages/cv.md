@@ -26,7 +26,7 @@ redirect_from:
 
 
 <h2 class="western">Experience:</h2>
-
+	<li><span style="font-size: medium;"><b>Ph.D., </b>
 
 
 <h2 class="western">Education:</h2>
