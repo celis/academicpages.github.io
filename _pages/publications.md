@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-[See complete list in INSPIRE](http://inspirehep.net/author/profile/A.Celis.1)
+[See complete list in **INSPIRE](http://inspirehep.net/author/profile/A.Celis.1)
 
 
 
