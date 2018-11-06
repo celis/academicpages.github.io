@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-{%<a style="line-height: 1.5;" href="https://celis.github.io/files/cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Full CV available in PDF format.</span></span></a>  %}
+<!––  <a style="line-height: 1.5;" href="https://celis.github.io/files/cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Full CV available in PDF format.</span></span></a>   ––>
 
 
 
