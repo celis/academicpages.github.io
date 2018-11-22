@@ -13,7 +13,7 @@ Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D
 
 
 
-* 2015-2018: Postdoctoral Researcher (LMU, Munich)
+2015-2018: Postdoctoral Researcher, Theoretical Physics (LMU, Munich)
 
 Fellow from the Alexander von Humboldt Foundation. 
  
