@@ -13,9 +13,8 @@ Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D
 
 
 
-**2015-2018:** Postdoctoral Researcher, Theoretical Physics (LMU, Munich)
-
-_Fellow from the Alexander von Humboldt Foundation_
+**2015-2018:** Postdoctoral Researcher, Theoretical Physics (LMU, Munich)  
+  _Fellow from the Alexander von Humboldt Foundation_
  
  
 Scientific publications  [link](http://inspirehep.net/author/profile/A.Celis.1).   
