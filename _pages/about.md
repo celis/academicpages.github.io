@@ -15,7 +15,7 @@ Skilled in mathematical modeling and data analysis. PhD in theoretical physics.
 
 *2015-2018:* Postdoctoral Researcher, Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
-  _Fellow from the Alexander von Humboldt Foundation_
+  Fellow from the Alexander von Humboldt Foundation
  
  
 Scientific publications  [link](http://inspirehep.net/author/profile/A.Celis.1).   
