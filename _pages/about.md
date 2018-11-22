@@ -10,3 +10,6 @@ redirect_from:
 Experienced researcher. Skilled in Mathematical Modeling and Data Analysis. Ph.D. in Theoretical Physics.
 
 
+A complete list of my scientific publications can be found in **INSPIRE.   
+
+
