@@ -16,8 +16,7 @@ Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D
 
  
  
-A complete list of my scientific publications can be found in [INSPIRE](http://inspirehep.net/author/profile/A.Celis.1).     
-List of talks at international conferences can be downloaded [here](https://celis.github.io/files/conferences.pdf).  
+A complete list of my scientific publications can be found in [INSPIRE](http://inspirehep.net/author/profile/A.Celis.1).   List of talks at international conferences can be downloaded [here](https://celis.github.io/files/conferences.pdf).          
 
 
 
