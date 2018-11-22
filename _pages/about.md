@@ -19,7 +19,7 @@ Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D
  
 Scientific publication: [link](http://inspirehep.net/author/profile/A.Celis.1).   
 
-Talks at international conferences [download](https://celis.github.io/files/conferences.pdf).          
+Talks at international conferences [link](https://celis.github.io/files/conferences.pdf).          
 
 
 
