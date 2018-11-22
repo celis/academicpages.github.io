@@ -13,7 +13,8 @@ Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D
 
 
 
-**2015-2018:** Postdoctoral Researcher, Theoretical Physics (LMU, Munich)  
+**2015-2018:** Postdoctoral Researcher, Theoretical Physics 
+   Ludwig-Maximilians-Universität München, Germany  
   _Fellow from the Alexander von Humboldt Foundation_
  
  
@@ -22,5 +23,6 @@ Talks at international conferences [link](https://celis.github.io/files/conferen
 
 
 
-**2011-2014**  PhD in Theoretical Physics (University of Valencia, Spain)
+**2011-2014:**  PhD in Theoretical Physics 
+  University of Valencia, Spain
 
