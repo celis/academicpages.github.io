@@ -13,7 +13,7 @@ Skilled in mathematical modeling and data analysis. Ph.D. in theoretical physics
 
 
 
-**2015-2018:** Postdoctoral Researcher, Theoretical Physics    
+*2015-2018:* Postdoctoral Researcher, Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
   _Fellow from the Alexander von Humboldt Foundation_
  
