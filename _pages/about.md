@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Skilled in mathematical modeling and data analysis. Ph.D. in theoretical physics.
+Skilled in mathematical modeling and data analysis. PhD in theoretical physics.
 
 
 
