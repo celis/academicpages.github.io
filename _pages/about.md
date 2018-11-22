@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D. in theoretical physics.
+
 
 
 
