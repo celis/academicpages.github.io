@@ -12,7 +12,7 @@ Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D
 
 
 
-#### H4 (2015-2018) Postdoctoral Researcher, Theoretical Physics
+####  (2015-2018) Postdoctoral Researcher, Theoretical Physics
 
 
 A complete list of my scientific publications can be found in [INSPIRE](http://inspirehep.net/author/profile/A.Celis.1).     
