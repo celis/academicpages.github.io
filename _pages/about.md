@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Experienced researcher. Skilled in Mathematical Modeling and Data Analysis. Ph.D. in Theoretical Physics.
+Experienced researcher. Skilled in mathematical modeling and data analysis. Ph.D. in theoretical physics.
 
 
-A complete list of my scientific publications can be found in **INSPIRE.   
+A complete list of my scientific publications can be found in [INSPIRE](http://inspirehep.net/author/profile/A.Celis.1).   
+
+
 
 
