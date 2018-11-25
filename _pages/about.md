@@ -18,7 +18,7 @@ Ludwig-Maximilians-Universität München, Germany
   Fellow from the Alexander von Humboldt Foundation
  
  
-Scientific publications  [link](http://inspirehep.net/author/profile/A.Celis.1).   
+Scientific publications [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) for more details.   
 Talks at international conferences [link](https://celis.github.io/files/conferences.pdf).          
 
 
