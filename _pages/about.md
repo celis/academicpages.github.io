@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-*Dec. 2018-present:* Junior Data Scientist,
+*Dec. 2018-present:* Junior Data Scientist
 CHECK24 Vergleichsportal Shopping GmbH
 
 
 *2015-2018:* Postdoctoral Researcher, Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
-  Fellow from the Alexander von Humboldt Foundation
+Fellow from the Alexander von Humboldt Foundation
  
  
 Scientific publications [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) for more details.   
