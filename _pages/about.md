@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 
-Skilled in mathematical modeling and data analysis. PhD in theoretical physics.
 
+*Dec. 2018-present:* Junior Data Scientist,
+CHECK24 Vergleichsportal Shopping GmbH
 
 
 *2015-2018:* Postdoctoral Researcher, Theoretical Physics    
