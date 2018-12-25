@@ -10,8 +10,8 @@ redirect_from:
 
 
 
-*Dec. 2018-present:* Junior Data Scientist,
-CHECK24 Vergleichsportal Shopping GmbH
+*Dec. 2018-present:* Junior Data Scientist,            
+     CHECK24 Vergleichsportal Shopping GmbH
 
 
 *2015-2018:* Postdoctoral Researcher, Theoretical Physics    
