@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-*2015-2018:* Postdoctoral Researcher, Theoretical Physics    
+**2015-2018:** Postdoctoral Researcher, Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
 Fellow from the Alexander von Humboldt Foundation
  
@@ -25,6 +25,6 @@ Talks at international conferences [link](https://celis.github.io/files/conferen
 
 
 
-*2011-2014:*  PhD in Theoretical Physics.
+**2011-2014:**  PhD in Theoretical Physics.
  University of Valencia, Spain                 
 
