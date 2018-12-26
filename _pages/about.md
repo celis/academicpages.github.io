@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-**2015-2018:** Postdoctoral Researcher, Theoretical Physics    
+**2015-2018:** Postdoctoral Researcher in Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
 Fellow from the Alexander von Humboldt Foundation
  
