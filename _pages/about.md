@@ -25,7 +25,7 @@ Talks at international conferences [link](https://celis.github.io/files/conferen
 
 
 
-**2011-2014:**  PhD in Theoretical Physics.  
+**2011-2014:**  PhD in Theoretical Physics
      University of Valencia, Spain   
  Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
    Advisor: Antonio Pich 
