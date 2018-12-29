@@ -21,7 +21,7 @@ Fellow from the Alexander von Humboldt Foundation
  
  
 Scientific publications [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) for more details.   
-Talks at international conferences [link](https://celis.github.io/files/conferences.pdf).          
+Several talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).          
 
 
 
