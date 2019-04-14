@@ -9,12 +9,10 @@ redirect_from:
 ---
 
 
-**Experience:**
+*Experience:*
 
 ***Dec. 2018-present:*** Junior Data Scientist           
      CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany
-
-
 
 ***2015-2018:*** Postdoctoral Researcher in Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
@@ -30,16 +28,11 @@ Several talks at international conferences, workshops and seminars [link](https:
  Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
    Advisor: Prof. Antonio Pich 
 
-***2011-2014:***  PhD in Theoretical Physics  
-   University of Valencia  , Spain   
- Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
-   Advisor: Prof. Antonio Pich 
-
 ***2010-2011:***  Master in Theoretical Physics  
    University of Valencia  , Spain 
    
 ***2008-2010:***  Master of Science, Physics
-   Lunf University, Sweden
+   Lund University, Sweden
    
 ***2004-2010:***  Licentiate in Physics 
    Simon Bolivar University, Venezuela
