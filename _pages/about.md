@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-*Experience:*
+**Experience:**
 
 ***Dec. 2018-present:*** Junior Data Scientist           
      CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany
