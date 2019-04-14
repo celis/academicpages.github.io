@@ -25,11 +25,11 @@ Several talks at international conferences, workshops and seminars [link](https:
 
 *2011-2014:*  PhD in Theoretical Physics, University of Valencia, Spain   
   Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
-  Advisor: Prof. Antonio Pich 
+  Advisor: Prof. Antonio Pich  
   FPU scholarship from the Spanish Ministry of Education and Science
 
 *2010-2011:*  Master in Theoretical Physics,
-   University of Valencia  , Spain 
+   University of Valencia  , Spain  
     Santiago Grisolia scholarship from the Generalitat Valenciana
    
 *2008-2010:*  Master of Science, Physics,
