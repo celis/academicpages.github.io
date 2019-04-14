@@ -23,9 +23,10 @@ Several talks at international conferences, workshops and seminars [link](https:
 
 **Education:**
 
-***2011-2014:***  PhD in Theoretical Physics, University of Valencia, Spain
- Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
-   Advisor: Prof. Antonio Pich 
+***2011-2014:***  PhD in Theoretical Physics, 
+  University of Valencia, Spain
+  Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
+  Advisor: Prof. Antonio Pich 
 
 ***2010-2011:***  Master in Theoretical Physics,
    University of Valencia  , Spain 
