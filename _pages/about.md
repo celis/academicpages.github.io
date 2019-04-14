@@ -11,10 +11,10 @@ redirect_from:
 
 **Experience:**
 
-***Dec. 2018-present:*** Junior Data Scientist           
+*Dec. 2018-present:* Junior Data Scientist           
      CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany
 
-***2015-2018:*** Postdoctoral Researcher in Theoretical Physics    
+*2015-2018:* Postdoctoral Researcher in Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
 Fellow from the Alexander von Humboldt Foundation
  
@@ -23,7 +23,7 @@ Several talks at international conferences, workshops and seminars [link](https:
 
 **Education:**
 
-***2011-2014:***  PhD in Theoretical Physics, University of Valencia, Spain   
+****2011-2014:****  PhD in Theoretical Physics, University of Valencia, Spain   
   Thesis: Phenomenology of two-Higgs-doublet models in the LHC era    
   Advisor: Prof. Antonio Pich 
 
