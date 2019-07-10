@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 
-
-<p>Short version:</p>
 
