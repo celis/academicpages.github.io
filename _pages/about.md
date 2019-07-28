@@ -13,6 +13,7 @@ redirect_from:
 
 *Dec. 2018-present:* Junior Data Scientist           
      CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany
+     
      Working in Natural Language Processing (NLP) and Information Retrieval. 
      
 
