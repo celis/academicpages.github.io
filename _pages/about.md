@@ -16,12 +16,12 @@ CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany
 *Working in Natural Language Processing (NLP) and Information Retrieval.* 
      
 
-*2015-2018:* Postdoctoral Researcher in Theoretical Physics    
+**2015-2018:** Postdoctoral Researcher in Theoretical Physics    
 Ludwig-Maximilians-Universität München, Germany      
 Fellow from the Alexander von Humboldt Foundation
  
-Scientific publications [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) or [arxiv](https://arxiv.org/a/celis_a_1.html) for more details.   
-Several talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).          
+*Scientific publications [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) or [arxiv](https://arxiv.org/a/celis_a_1.html) for more details.   
+Several talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).*          
 
 **Education:**
 
