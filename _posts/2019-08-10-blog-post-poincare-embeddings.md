@@ -6,4 +6,4 @@ tags:
   - representation learning
 ---
 
-*"Poincaré Embeddings for Learning Hierarchical Representations"* from Maximilian Nickel and Douwe Kiela [arxiv:1705.0803](https://arxiv.org/abs/1705.08039])
+*"Poincaré Embeddings for Learning Hierarchical Representations"* from Maximilian Nickel and Douwe Kiela ([arxiv:1705.0803](https://arxiv.org/abs/1705.08039]))
