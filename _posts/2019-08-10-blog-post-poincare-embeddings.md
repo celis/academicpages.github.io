@@ -10,5 +10,3 @@ Here I review the article *"Poincaré Embeddings for Learning Hierarchical Repre
 
 <br/><img src='/files/plot_wn_mammals_converged_crop.png' style="width:50px;height:50px;"> 
 
-$z = x + y$
-
