@@ -8,5 +8,5 @@ tags:
 
 Here I review the article *"Poincaré Embeddings for Learning Hierarchical Representations"* from Maximilian Nickel and Douwe Kiela [arxiv:1705.08039](https://arxiv.org/abs/1705.08039).  
 
-<br/><img src='/files/plot_wn_mammals_converged_crop.png' style="width:50px;height:50px;"> 
+<br/><img src='/files/plot_wn_mammals_converged_crop.png' style="width:200px;height:200px;"> 
 
