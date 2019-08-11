@@ -10,3 +10,9 @@ Here I review the article *"Poincaré Embeddings for Learning Hierarchical Repre
 
 <br/><img src='/files/plot_wn_mammals_converged_crop.png' class="center" style="width:600px;height:550px;"> 
 
+
+
+[gensim](https://radimrehurek.com/gensim/models/poincare.html)
+
+
+[facebook research](https://github.com/facebookresearch/poincare-embeddings)
