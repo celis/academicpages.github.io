@@ -1,7 +1,7 @@
 ---
-title: 'Poincaré Embeddings'
+title: 'Embeddings in hyperbolic space'
 date: 2019-08-10
-permalink: /posts/2019/08/blog-post-poincare-embeddings/
+permalink: /posts/2019/08/blog-post-hyperbolic-embeddings/
 tags:
   - representation learning
 ---
