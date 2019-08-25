@@ -29,7 +29,7 @@ Scientific publications [link](https://celis.github.io/files/list_of_publication
 Several talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).   
 
 
-**2013 – 2014** Teaching assistant, University of Valencia, Spain
+**2013 – 2014** Teaching assistant, University of Valencia, Spain   
 Preparing exercises for undergraduate students taking a first course in Quantum Field Theory and grading their solutions. Also guiding them through the solution of selected problems during the practical sessions and answering their questions/doubts on the proposed problems.
 
 **Education:**
