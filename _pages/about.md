@@ -26,7 +26,11 @@ Ludwig-Maximilians-Universität München, Germany
 Fellow from the Alexander von Humboldt Foundation
  
 Scientific publications [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) or [arxiv](https://arxiv.org/a/celis_a_1.html) for more details.   
-Several talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).          
+Several talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).   
+
+
+**2013 – 2014** Teaching assistant, University of Valencia, Spain
+Preparing exercises for undergraduate students taking a first course in Quantum Field Theory and grading their solutions. Also guiding them through the solution of selected problems during the practical sessions and answering their questions/doubts on the proposed problems.
 
 **Education:**
 
