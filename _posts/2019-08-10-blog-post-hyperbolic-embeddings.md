@@ -12,11 +12,16 @@ Here I review the idea of embedding text in hyperbolic space.  I follow the foll
 
 [2] *"Embedding Text in Hyperbolic Spaces"* from Bhuwan Dhingra, Christopher J. Shallue, Mohammad Norouzi, Andrew M. Dai and George E. Dahl [arxiv::1806.04313](https://arxiv.org/abs/:1806.04313)
 
-[3] *"Poincaré GloVe: Hyperbolic Word Embeddings"* from Alexandru Tifrea, Gary Bécigneul and Octavian-Eugen Ganea [arxiv:1810.06546](https://arxiv.org/abs/1810.06546)
+[3] *"Skip-gram word embeddings in hyperbolic space"* from Matthias Leimeister, Benjamin J. Wilson [arxiv:1809.01498](https://arxiv.org/abs/1809.01498)
 
-[4] *"Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings"* from Matt Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela and Maximilian Nickel [arxiv:1902.00913](https://arxiv.org/abs/1902.00913)
+[4] *"Poincaré GloVe: Hyperbolic Word Embeddings"* from Alexandru Tifrea, Gary Bécigneul and Octavian-Eugen Ganea [arxiv:1810.06546](https://arxiv.org/abs/1810.06546)
 
-Whats the motivation?
+[5] *"Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings"* from Matt Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela and Maximilian Nickel [arxiv:1902.00913](https://arxiv.org/abs/1902.00913)
+
+
+
+
+The motivation behind these works 
 
 
 
