@@ -16,6 +16,7 @@ Here I review the
 
 - *"Poincaré GloVe: Hyperbolic Word Embeddings"* from Alexandru Tifrea, Gary Bécigneul and Octavian-Eugen Ganea [arxiv:1810.06546](https://arxiv.org/abs/1810.06546)
 
+
 <br/><img src='/files/plot_wn_mammals_converged_crop.png' class="center" style="width:600px;height:550px;"> 
 
 
@@ -24,3 +25,5 @@ Here I review the
 
 
 [facebook research](https://github.com/facebookresearch/poincare-embeddings)
+
+
