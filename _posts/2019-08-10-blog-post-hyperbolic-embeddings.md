@@ -22,6 +22,7 @@ Here I review the idea of embedding text in hyperbolic space.  I follow the foll
 I will focus on the application of these methods towards the generation of word embeddings in an unsupervised manner.   The standard algorithms for generating word embeddings, such as word2vec or glove, generate word representations in a multidimensional Euclidean space.  These have proven to be extremely useful for so called downstream tasks due to their ability to capture semantic and syntactic relations among words when trained on large text corpora.  
 
 
+There are different realizations of hyperbolic space. I find it convenient to use the the hyperboloid model of hyperbolic space (see for instance [3]) as it is connected to Minkowski space and I can rely on some intuition from special relativity. 
 
 
 
