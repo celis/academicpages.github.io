@@ -24,9 +24,6 @@ I will focus on the application of these methods towards the generation of word 
 
 
 
-#<br/><img src='/files/plot_wn_mammals_converged_crop.png' align="middle" style="width:600px;height:550px;"> 
-
-
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
 and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski)
