@@ -16,7 +16,7 @@ Here I review the idea of embedding text in hyperbolic space.  I follow the foll
 
 [4] *"Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings"* from Matt Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela and Maximilian Nickel [arxiv:1902.00913](https://arxiv.org/abs/1902.00913)
 
-
+Whats the motivation?
 
 
 
