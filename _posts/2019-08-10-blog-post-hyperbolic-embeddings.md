@@ -17,7 +17,9 @@ Here I review the idea of embedding text in hyperbolic space.  I will follow the
 [4] *"Poincaré GloVe: Hyperbolic Word Embeddings"* from Alexandru Tifrea, Gary Bécigneul and Octavian-Eugen Ganea [arxiv:1810.06546](https://arxiv.org/abs/1810.06546)
 
 
-<br/><img src='/files/plot_wn_mammals_converged_crop.png' class="center" style="width:600px;height:550px;"> 
+
+
+<br/><img src='/files/plot_wn_mammals_converged_crop.png' align="middle" style="width:600px;height:550px;"> 
 
 
 
