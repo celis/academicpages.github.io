@@ -24,7 +24,7 @@ I will focus on the application of these methods towards the generation of word 
 
 
 
-<br/><img src='/files/plot_wn_mammals_converged_crop.png' align="middle" style="width:600px;height:550px;"> 
+#<br/><img src='/files/plot_wn_mammals_converged_crop.png' align="middle" style="width:600px;height:550px;"> 
 
 
 
