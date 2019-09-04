@@ -6,7 +6,7 @@ tags:
   - representation learning
 ---
 
-Here I review the idea of embedding text in hyperbolic space.  I follow the following articles:
+Here I review the idea of embedding text in hyperbolic space.  I will follow the following articles:
 
  [1] *"Poincaré Embeddings for Learning Hierarchical Representations"* from Maximilian Nickel and Douwe Kiela [arxiv:1705.08039](https://arxiv.org/abs/1705.08039).  
 
