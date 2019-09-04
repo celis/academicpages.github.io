@@ -29,7 +29,8 @@ I will focus on the application of these methods towards the generation of word 
 
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
-and [facebook research](https://github.com/facebookresearch/poincare-embeddings). 
+and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implemntation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski)
+
 
 
 
