@@ -27,7 +27,7 @@ Douwe Kiela [arxiv:1806.03417](https://arxiv.org/abs/1806.03417)
 I will focus on the application of these methods towards the generation of word embeddings in an unsupervised manner.   The standard algorithms for generating word embeddings, such as word2vec or glove, generate word representations in a multidimensional Euclidean space.  These have proven to be extremely useful for so called downstream tasks due to their ability to capture semantic and syntactic relations among words when trained on large text corpora.   The main idea behind these works is that 
 
 
-There are different realizations of hyperbolic space. I find it convenient to use the the hyperboloid model of hyperbolic space (see for instance [2-3]) as it is connected to Minkowski space and I can rely on some intuition from the theory of special relativity.   However most of the works above have used the Poincaré ball model of hyperbolic space, likely because of some inertia from the work in [1].  The authors of [2-3] stress that optimization can be formulated more efficiently in the hyperboloid model. 
+There are different realizations of hyperbolic space.   The authors of [2-3] stress that optimization can be formulated more efficiently in the hyperboloid model. However most of the works above have used the Poincaré ball model of hyperbolic space, likely because of some inertia from the initial work in [1].  
 
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
