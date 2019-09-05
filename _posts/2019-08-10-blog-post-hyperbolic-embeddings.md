@@ -25,7 +25,6 @@ I will focus on the application of these methods towards the generation of word 
 There are different realizations of hyperbolic space. I find it convenient to use the the hyperboloid model of hyperbolic space (see for instance [3]) as it is connected to Minkowski space and I can rely on some intuition from the theory of special relativity. 
 
 
-
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
 and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski)
 
