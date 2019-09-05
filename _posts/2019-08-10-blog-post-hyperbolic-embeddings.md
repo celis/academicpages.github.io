@@ -11,7 +11,7 @@ Here I review the idea of embedding text in hyperbolic space.  I will focus on t
 
 There are different realizations of hyperbolic space.   The authors of [3-4] stress optimization problems can be formulated more efficiently in the hyperboloid model.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   A nice connection with the special theory of relativity can be drawn as the relativistic momentum of a (unit mass) massive particle defines a 3-dimensional hyperbolic model
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;E^2-|\vec p|^2c^2=m^2c^4" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;E^2-|\vec~p|^2c^2=m^2c^4" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 
