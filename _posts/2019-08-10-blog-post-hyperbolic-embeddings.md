@@ -6,11 +6,10 @@ tags:
   - representation learning
 ---
 
-Here I review the idea of embedding text in hyperbolic space following [1-6].  I will focus on the application of these methods towards the generation of word embeddings in an unsupervised manner.   The standard algorithms for generating word embeddings, such as word2vec or glove, generate word representations in a multidimensional Euclidean space.  These have proven to be extremely useful for so called downstream tasks due to their ability to capture semantic and syntactic relations among words when trained on large text corpora.   The main idea behind these works [1-6] is that by building the word embeddings within the geometry of hyperbolic space can make it easier for these embeddings to capture hierarchical relations present in language such as hypernym-hyponym relationships.
+Here I review the idea of representation learning in hyperbolic space following [1-6].  I will focus on the application of these methods towards the generation of word embeddings from natural language in an unsupervised manner.   The standard algorithms for generating word embeddings, such as word2vec or GloVe, generate word representations in a multidimensional Euclidean space.  These have proven to be extremely useful for so called downstream tasks (such as text classification, word similarity and name entity recognition) due to their ability to capture semantic and syntactic relations among words when trained on large text corpora.   The main motivation for building word embeddings in the hyperbolic space is that these embeddings might be able to capture better hierarchical relations present in language, such as hypernym-hyponym relationships, and therefore have the potential to perform better than traditional embeddings on certain tasks.  Representation learning in hyperbolic space has been explored initially in the context of graphs [1] with promising results.
 
 
 There are different realizations of hyperbolic space.   The authors of [3-4] stress that optimization problems can be formulated more efficiently in the hyperboloid model.  It therefore seems more conventient to use the hyperboloid model as our realization of the hyperbolic space.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   
-
 
 
 
