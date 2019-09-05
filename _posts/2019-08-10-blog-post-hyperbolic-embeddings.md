@@ -9,7 +9,11 @@ tags:
 Here I review the idea of embedding text in hyperbolic space following [1-6].  I will focus on the application of these methods towards the generation of word embeddings in an unsupervised manner.   The standard algorithms for generating word embeddings, such as word2vec or glove, generate word representations in a multidimensional Euclidean space.  These have proven to be extremely useful for so called downstream tasks due to their ability to capture semantic and syntactic relations among words when trained on large text corpora.   The main idea behind these works [1-6] is that by building the word embeddings within the geometry of hyperbolic space can make it easier for these embeddings to capture hierarchical relations present in language such as hypernym-hyponym relationships.
 
 
-There are different realizations of hyperbolic space.   The authors of [3-4] stress that optimization problems can be formulated more efficiently in the hyperboloid model.  It therefore seems more conventient to use the hyperboloid model as our realization of the hyperbolic space.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   Readers familiar with the theory of special relativity can notice that the mass shell of a massive particle defines a 3-dimensional hyperbolic model in momentum space.
+There are different realizations of hyperbolic space.   The authors of [3-4] stress that optimization problems can be formulated more efficiently in the hyperboloid model.  It therefore seems more conventient to use the hyperboloid model as our realization of the hyperbolic space.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   
+
+Readers familiar with the theory of special relativity can notice that the mass shell of a massive particle defines a 3-dimensional hyperbolic model in momentum space. 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;E^2-|\vec{p}|^2=m^2" title="\Large E^2-|\vec{p}|^2=m^2" />
+So, when considering embeddings on the 3-dimensional hyperboloid model, we can think of each embedding as the 4-momentum vector of a massive particle.
 
 
 
