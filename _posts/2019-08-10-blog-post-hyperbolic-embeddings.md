@@ -9,11 +9,12 @@ tags:
 Here I review the idea of embedding text in hyperbolic space.  I will focus on the application of these methods towards the generation of word embeddings in an unsupervised manner.   The standard algorithms for generating word embeddings, such as word2vec or glove, generate word representations in a multidimensional Euclidean space.  These have proven to be extremely useful for so called downstream tasks due to their ability to capture semantic and syntactic relations among words when trained on large text corpora.   The main idea behind these works is that 
 
 
-There are different realizations of hyperbolic space.   The authors of [3-4] stress optimization problems can be formulated more efficiently in the hyperboloid model. 
+There are different realizations of hyperbolic space.   The authors of [3-4] stress optimization problems can be formulated more efficiently in the hyperboloid model.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space. In special 
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
 and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski)
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 
 **References:**
