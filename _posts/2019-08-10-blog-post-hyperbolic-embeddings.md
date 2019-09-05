@@ -1,5 +1,5 @@
 ---
-title: 'Text embeddings in hyperbolic space'
+title: 'Text embeddings in hyperbolic space and special relativity'
 date: 2019-08-10
 permalink: /posts/2019/08/blog-post-hyperbolic-embeddings/
 tags:
