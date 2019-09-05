@@ -15,7 +15,7 @@ A nice connection with the special theory of relativity can be drawn as the rela
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;E^2-|\vec{p}|^2=m^2" title="\Large E^2-|\vec{p}|^2=m^2" />
 
-Continuing with this analogy, imagine we build a word embeddings on te 3-dimensional hyperbolic model.  This will be done by learning the word representations that optimize some objective function or Lagrangian.  We can then think of these word representations as a collection of non-interacting unit mass particles which are in equilibrium.   
+Continuing with this analogy, imagine we build a word embeddings on the 3-dimensional hyperbolic model.  This will be done by learning the word representations that optimize some objective function or Lagrangian.  We can then think of these word representations as a collection of non-interacting unit mass particles which are in equilibrium.   
 
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
