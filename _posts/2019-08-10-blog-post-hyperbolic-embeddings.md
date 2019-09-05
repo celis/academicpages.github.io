@@ -23,7 +23,7 @@ and [facebook research](https://github.com/facebookresearch/poincare-embeddings)
 
 [2] *"Embedding Text in Hyperbolic Spaces"* from Bhuwan Dhingra, Christopher J. Shallue, Mohammad Norouzi, Andrew M. Dai and George E. Dahl [arxiv:1806.04313](https://arxiv.org/abs/1806.04313)
 
-[3] *"Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry" from Maximilian Nickel and Douwe Kiela [arxiv:1806.03417](https://arxiv.org/abs/1806.03417)
+[3] *"Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry"* from Maximilian Nickel and Douwe Kiela [arxiv:1806.03417](https://arxiv.org/abs/1806.03417)
 
 [4] *"Skip-gram word embeddings in hyperbolic space"* from Matthias Leimeister and Benjamin J. Wilson [arxiv:1809.01498](https://arxiv.org/abs/1809.01498)
 
