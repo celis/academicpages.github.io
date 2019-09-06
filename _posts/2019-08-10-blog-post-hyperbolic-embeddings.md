@@ -12,7 +12,7 @@ Here I review the idea of representation learning in hyperbolic space following 
 Representation learning in hyperbolic space was studied initially in the context of graphs [1], finding interesting results. Its extension to derive word embeddings from large corpora in an unsupervised manner is a natural follow-up.  The main motivation for building word embeddings in hyperbolic space is that these embeddings might be able to capture better hierarchical relations present in language, such as hypernym-hyponym relationships, and therefore have the potential to perform better than traditional embeddings on certain tasks.  
 
 
-There are different realizations of hyperbolic space.   The authors of [3-4] stress that optimization problems can be formulated more efficiently in the hyperboloid model.  It therefore seems more conventient to use the hyperboloid model as our realization of the hyperbolic space.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.    other  
+There are different realizations of hyperbolic space.   The authors of [3-4] stress that optimization problems can be formulated more efficiently in the hyperboloid model.  It therefore seems conventient to use the hyperboloid model as our realization of the hyperbolic space.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   
 
 
 
