@@ -17,7 +17,7 @@ During my free time I enjoy working on side projects, sharing/teaching about dat
 
 **Experience:**
 
-**Dec. 2018-present:** Junior Data Scientist           
+**Dec. 2018-present:** Data Scientist           
 CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany     
      
 
