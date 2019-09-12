@@ -14,7 +14,7 @@ Representation learning in hyperbolic space was studied initially in the context
 
 There are different realizations of hyperbolic space.   The authors of [3-4] stress that optimization problems can be formulated more efficiently in the hyperboloid model.  It therefore seems conventient to use the hyperboloid model as our realization of the hyperbolic space.  The n-dimensional hyperbolic model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   
 
-
+...in progress
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
 and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski)
