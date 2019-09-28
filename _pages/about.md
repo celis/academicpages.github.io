@@ -10,8 +10,11 @@ redirect_from:
 
 Data Scientist based in Munich. I'm interested in leveraging my experience in data science/analytics to produce actionable insights that improve business and products. 
 
-I have a background in theoretical physics with significant research experience. I am passionate about working with real-world data and building products with Machine Learning. 
-Focus on Natural Language Processing (NLP) and Information Retrieval problems. Experienced with the Python ecosystem. 
+- I have a background in theoretical physics with significant research experience. 
+
+- I am passionate about working with real-world data and building products with Machine Learning. 
+
+- Focus on Natural Language Processing (NLP) and Information Retrieval problems. Experienced with the Python ecosystem. 
 
 During my free time I enjoy working on side projects, sharing/teaching about data science, mathematics, and physics, as well as reading, watching films, and gardening. I grew up in Caracas, Venezuela.
 
