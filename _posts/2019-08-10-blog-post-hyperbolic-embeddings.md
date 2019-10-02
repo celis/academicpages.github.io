@@ -15,11 +15,11 @@ Deriving word embeddings in hyperbolic space from large corpora in an unsupervis
 
 There are different realizations of hyperbolic space.   The authors of [3-4] stress that gradient based optimization can be formulated more efficiently in the hyperboloid model.  It therefore seems conventient to use the latter as our realization of the hyperbolic space.  The n-dimensional hyperboloid model is defined by the points lying on the forward sheet (with the zero coordinate positive) of an hyperboloid in (n+1)-dimensional Minkowski space.   Some works, including [1], have used the Poincaré ball representation of hyperbolic space. At the end, one can map points in a hyperboloid model to a corresponding Poincaré ball representation, so choosing one or the other is a matter of convenience.
 
-To generate word embeddings in hyperbolic space, we need to define a loss function whose optimization would yield the desired word representations.    Ref. [2] uses the loss function defined in [1], constructing a graph of word co-occurrrences along the way.  Ref. [4] on the other hand generalizes the Skip-Gram loss function with negative sampling by considering inner products with the Minkowski metric.  
+To generate word embeddings in hyperbolic space, we need to define a loss function whose optimization would yield the desired word representations.    Ref. [2] uses the loss function defined in [1], constructing a graph of word co-occurrrences along the way.  Ref. [4] on the other hand generalizes the Skip-Gram loss function with negative sampling by considering inner products with the Minkowski metric.   As the authors of [4] comment, the definition of the objective function for the purpose at hand deserves further research.
 
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
-and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski)
+and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski).
 
 
 
