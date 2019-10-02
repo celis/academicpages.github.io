@@ -19,7 +19,7 @@ To generate word embeddings in hyperbolic space, we need to define a loss functi
 
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
-and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [3] can be found in [minkowski](https://github.com/lateral/minkowski).
+and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [4] can be found in [minkowski](https://github.com/lateral/minkowski).
 
 
 
