@@ -17,6 +17,7 @@ There are different realizations of hyperbolic space.   The authors of [3-4] str
 
 To generate word embeddings in hyperbolic space, we need to define a loss function whose optimization would yield the desired word representations.    Ref. [2] uses the loss function defined in [1], constructing a graph of word co-occurrrences along the way.  Ref. [4] on the other hand generalizes the Skip-Gram loss function with negative sampling by considering inner products with the Minkowski metric.   As the authors of [4] comment, the definition of the objective function for the purpose at hand deserves further research.
 
+Overall, further work seems needed to fully assess the potential of hyperbolic embeddings in the context of word representations from large text corpora.   
 
 Implementations of the model presented in [1] can be found in [gensim](https://radimrehurek.com/gensim/models/poincare.html)
 and [facebook research](https://github.com/facebookresearch/poincare-embeddings). Implementation of the code used in [4] can be found in [minkowski](https://github.com/lateral/minkowski).
