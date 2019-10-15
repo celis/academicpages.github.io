@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Scientist based in Munich. I'm interested in leveraging my experience in data science/analytics to produce actionable insights that improve business and products. 
+Data Scientist based in Munich. I'm interested in leveraging my experience in data science/analytics to produce actionable insights that improve business and products in an agile way. 
 
 - I have a background in theoretical physics with significant research experience. 
 
