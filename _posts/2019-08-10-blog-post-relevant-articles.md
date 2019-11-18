@@ -44,7 +44,7 @@ Peter W. Higgs
 * [Spontaneous Symmetry Breakdown without Massless Bosons](https://labs.inspirehep.net/literature/50073)
 Peter W. Higgs
 
-* [Broken Symmetry and the Mass of Gauge Vector Mesons]
+* [Broken Symmetry and the Mass of Gauge Vector Mesons](https://labs.inspirehep.net/literature/12291)
 F. Englert, R. Brout
 
 
