@@ -10,7 +10,11 @@ Recently, together with [Jose Eliel Camargo](https://github.com/JoseEliel) I hav
 
 
 With this in mind, we have extracted reference lists from [inspirehep](https://labs.inspirehep.net) using the
-[inspirehep python wrapper](https://github.com/celis/inspirehep_api_wrapper).   With this large amount of data, we trained a Skip-Gram model using the [gensim](https://radimrehurek.com/gensim/) library.  We end up with a dense representation in the space of inspirehep article ids, from where we can extract similar items using cosine similarity.   
+[inspirehep python wrapper](https://github.com/celis/inspirehep_api_wrapper).  Ech reference list for us is just a list of inspire article ids.   We then trained a Skip-Gram model using the [gensim](https://radimrehurek.com/gensim/) library implementation.   We end up with a dense representation in the space of inspirehep article ids, from where we can extract similar items using cosine similarity.   Very simple!  
+
+Lets look at some of the results, I will start with one of my favourites:
+
+
 
 
 
