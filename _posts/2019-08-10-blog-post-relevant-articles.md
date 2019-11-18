@@ -14,6 +14,27 @@ With this in mind, we have extracted reference lists from [inspirehep](https://l
 
 Lets look at some of the results, I will start with one of my favourites:
 
+- I retrieve the three closest articles by cosine similarity to the following classic 
+    Regularization and Renormalization of Gauge Fields
+    Gerard 't Hooft, M.J.G. Veltman
+    Jan 1, 1971, Nucl.Phys.B 44 (1972)
+    
+I get the following results    
+
+A Method of Gauge Invariant Regularization
+J.F. Ashmore(ICTP, Trieste)
+Jan 1, 1971
+https://labs.inspirehep.net/literature/74882
+
+Dimensional Renormalization: The Number of Dimensions as a Regularizing Parameter
+C.G. Bollini(La Plata U.)J.J. Giambiagi(La Plata U.)
+Jan 1, 1971
+https://labs.inspirehep.net/literature/74881
+
+Lowest order divergent graphs in nu-dimensional space
+C.G. Bollini(La Plata U.)J.J. Giambiagi(La Plata U.)
+Jan 1, 1971  https://labs.inspirehep.net/literature/74400
+
 
 
 
