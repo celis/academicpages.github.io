@@ -47,9 +47,7 @@ Peter W. Higgs
 * [Broken Symmetry and the Mass of Gauge Vector Mesons](https://labs.inspirehep.net/literature/12291)
 F. Englert, R. Brout
 
-Which again, looks quite good  taking into account the Nobe Prize for Physics in connection with the Higgs boson discovery.
-
-
+Which again, looks quite good  taking into account the Nobe Prize for Physics in connection with the Higgs boson discovery.  
 
 
 
