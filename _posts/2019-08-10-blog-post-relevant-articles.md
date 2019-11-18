@@ -38,8 +38,14 @@ Peter W. Higgs
 
 we predict the following three similar articles
 
-* Broken symmetries, massless particles and gauge fields()
+* [Broken symmetries, massless particles and gauge fields](https://labs.inspirehep.net/literature/40440)
 Peter W. Higgs
+
+* [Spontaneous Symmetry Breakdown without Massless Bosons](https://labs.inspirehep.net/literature/50073)
+Peter W. Higgs
+
+* [Broken Symmetry and the Mass of Gauge Vector Mesons]
+F. Englert, R. Brout
 
 
 
