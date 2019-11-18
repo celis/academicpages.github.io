@@ -14,9 +14,9 @@ With this in mind, we have extracted reference lists from [inspirehep](https://l
 
 Lets look at some of the results, I will start with one of my favourites:
 
-- I retrieve the three closest articles by cosine similarity to the following classic article:
-   * [Regularization and Renormalization of Gauge Fields](https://labs.inspirehep.net/literature/74886)
-    Gerard 't Hooft, M.J.G. Veltman
+I retrieve the three closest articles by cosine similarity to the following classic article:
+* [Regularization and Renormalization of Gauge Fields](https://labs.inspirehep.net/literature/74886)
+  Gerard 't Hooft, M.J.G. Veltman
     
 I get the following results:
 
@@ -30,6 +30,8 @@ C.G. Bollini, J.J. Giambiagi
 C.G. Bollini, J.J. Giambiagi
 
 These results are very good, as these articles developed simultaneously with the article by Gerard 't Hooft and M.J.G. Veltman the concept of dimensional regularization.
+
+
 
 
 
