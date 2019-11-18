@@ -36,7 +36,7 @@ Lets look at another articles, starting with
 * [Broken Symmetries and the Masses of Gauge Bosons](https://labs.inspirehep.net/literature/11883)
 Peter W. Higgs
 
-we predict the following three similar articles
+we predict the following three most similar articles
 
 * [Broken symmetries, massless particles and gauge fields](https://labs.inspirehep.net/literature/40440)
 Peter W. Higgs
@@ -47,7 +47,7 @@ Peter W. Higgs
 * [Broken Symmetry and the Mass of Gauge Vector Mesons](https://labs.inspirehep.net/literature/12291)
 F. Englert, R. Brout
 
-
+Which again, looks quite good  taking into account the Nobe Prize for Physics in connection with the Higgs boson discovery.
 
 
 
