@@ -31,6 +31,17 @@ C.G. Bollini, J.J. Giambiagi
 
 These results are very good, as these articles developed simultaneously with the article by Gerard 't Hooft and M.J.G. Veltman the concept of dimensional regularization.
 
+Lets look at another articles, starting with
+
+* [Broken Symmetries and the Masses of Gauge Bosons](https://labs.inspirehep.net/literature/11883)
+Peter W. Higgs
+
+we predict the following three similar articles
+
+* Broken symmetries, massless particles and gauge fields()
+Peter W. Higgs
+
+
 
 
 
