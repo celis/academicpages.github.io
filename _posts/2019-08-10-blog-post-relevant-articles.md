@@ -31,7 +31,7 @@ C.G. Bollini, J.J. Giambiagi
 
 These results are very good, as these articles developed simultaneously with the article by Gerard 't Hooft and M.J.G. Veltman the concept of dimensional regularization.
 
-Lets look at another articles, starting with
+Lets look at another article, starting with
 
 * [Broken Symmetries and the Masses of Gauge Bosons](https://labs.inspirehep.net/literature/11883)
 Peter W. Higgs
@@ -47,7 +47,7 @@ Peter W. Higgs
 * [Broken Symmetry and the Mass of Gauge Vector Mesons](https://labs.inspirehep.net/literature/12291)
 F. Englert, R. Brout
 
-Which again, looks quite good  taking into account the Nobe Prize for Physics in connection with the Higgs boson discovery.  
+Which again, looks quite good  taking into account the Nobe Prize for Physics in connection with the Higgs boson discovery.   We are vrey happy with the results obtained so far and continue working on the topic.
 
 
 
