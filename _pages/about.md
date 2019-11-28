@@ -28,7 +28,7 @@ CHECK24 Vergleichsportal Shopping GmbH, Munich, Germany
 Ludwig-Maximilians-Universität München, Germany      
 Fellow from the Alexander von Humboldt Foundation
  
-Several scientific publications with over 1500 citations in total [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) or [arxiv](https://arxiv.org/a/celis_a_1.html) for more details.   
+Several scientific publications, with over 1500 citations in total [link](https://celis.github.io/files/list_of_publications.pdf), see also [inspire](http://inspirehep.net/author/profile/A.Celis.1) or [arxiv](https://arxiv.org/a/celis_a_1.html) for more details.   
 Multiple talks at international conferences, workshops and seminars [link](https://celis.github.io/files/conferences.pdf).   
 
 
