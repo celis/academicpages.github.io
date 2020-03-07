@@ -23,7 +23,10 @@ During my free time I enjoy working on side projects, sharing/teaching about dat
 
 ### Other profiles:
 
+<p>
  <a href="https://stackexchange.com/users/14656958/alejandro-celis"><img src="https://stackexchange.com/users/flair/14656958.png" width="208" height="58" alt="profile for Alejandro Celis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alejandro Celis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<\p>
 
-
+<p>
  <a href="https://www.kaggle.com/alejandrocelis"><img src="../images/site-logo.png" width="108" height="38" alt="an online community of data scientists and machine learning practitioners" title="an online community of data scientists and machine learning practitioners"></a>
+ <\p>
