@@ -28,6 +28,6 @@ Profile at Stack Exchange:
 
 Profile at Kaggle:
 
-<a href="https://www.kaggle.com/alejandrocelis"><img src="../images/site-logo.png" width="108" height="58"/></a>
+<a href="https://www.kaggle.com/alejandrocelis"><img src="../images/site-logo.png" width="108" height="48"/></a>
 
 
