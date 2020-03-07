@@ -23,7 +23,11 @@ You can also check this [site](https://celis.github.io/personal/) for technical 
 
 
 <div class="row">
-  <div class="column">
+  <div class="column" styile = {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}>
     <a href="https://stackexchange.com/users/14656958/alejandro-celis"><img src="https://stackexchange.com/users/flair/14656958.png" width="208" height="58" alt="profile for Alejandro Celis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alejandro Celis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
   </div>
   <div class="column">
