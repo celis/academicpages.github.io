@@ -19,7 +19,7 @@ Data Scientist based in Munich. I'm interested in leveraging my experience in da
 During my free time I enjoy working on side projects, sharing/teaching about data science, mathematics, and physics, as well as reading, watching films, and gardening. I grew up in Caracas, Venezuela.
 
 
-You can also check this [site](https://celis.github.io/personal/) for technical notes I have written. 
+**You can also check this [site](https://celis.github.io/personal/) for technical notes I have written.**
 
 Other profiles:
 
