@@ -30,7 +30,11 @@ You can also check this [site](https://celis.github.io/personal/) for technical 
 }>
     <a href="https://stackexchange.com/users/14656958/alejandro-celis"><img src="https://stackexchange.com/users/flair/14656958.png" width="208" height="58" alt="profile for Alejandro Celis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alejandro Celis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
   </div>
-  <div class="column">
+  <div class="column" style = {
+  content: "";
+  clear: both;
+  display: table;
+}>
     <a href="https://www.kaggle.com/alejandrocelis"><img src="../images/site-logo.png" width="108" height="38"/></a>
   </div>
 </div>
