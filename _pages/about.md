@@ -31,6 +31,6 @@ During my free time I enjoy working on side projects, sharing/teaching about dat
 
 
 #<p>
-# <a href="https://www.kaggle.com/alejandrocelis"><img src="../images/site-logo.png" width="108" height="38" alt="an online #community of data scientists and machine learning practitioners" title="an online community of data scientists and machine #learning practitioners"></a>
+# <a href="https://www.kaggle.com/alejandrocelis"><img src="../images/site-logo.png" width="108" height="38" alt="an online  community of data scientists and machine learning practitioners" title="an online community of data scientists and machine learning practitioners"></a>
 # </p>
 #</div>
